@@ -167,7 +167,7 @@ h6 {
 h1.logo{
   display:block;
   width: 140px;
-  height: 20px;
+  height: 50px;
   background: url(images/logo.png) 0 0 no-repeat;
   text-indent: -20000px;
 }
