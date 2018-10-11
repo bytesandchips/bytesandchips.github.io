@@ -2819,13 +2819,4 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
-.logo
-{
-    display: inline-block;
-    width: 150px;
-    height: 50px;
-        margin-top: 5px;
-        background-size: auto 43px;
-    background-image: url(../images/mylogo.png);
-    background-repeat: no-repeat;
-}
+
