@@ -164,6 +164,14 @@ h5 {
 h6 {
   font-size: 0.7rem; }
 
+h1.logo{
+  display:block;
+  width: 140px;
+  height: 50px;
+  background: url(images/logo.png) 0 0 no-repeat;
+  text-indent: -20000px;
+}
+
 @media screen and (max-width: 736px) {
   h1 {
     font-size: 2.75rem;
