@@ -164,14 +164,6 @@ h5 {
 h6 {
   font-size: 0.7rem; }
 
-h1.logo{
-  display:block;
-  width: 140px;
-  height: 50px;
-  background: url(images/logo.png) 0 0 no-repeat;
-  text-indent: -20000px;
-}
-
 @media screen and (max-width: 736px) {
   h1 {
     font-size: 2.75rem;
@@ -2827,3 +2819,13 @@ body.is-menu-visible #menu {
   transform: translateX(0);
   box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
   visibility: visible; }
+.logo
+{
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+        margin-top: 5px;
+        background-size: auto 43px;
+    background-image: url(../images/mylogo.png);
+    background-repeat: no-repeat;
+}
